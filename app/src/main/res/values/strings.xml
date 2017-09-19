@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FadisMeyerland</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_check_out">CheckOut</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="gallery">Gallery</string>
+    <string name="about_us">About Us</string>
+    <string name="check_out">Check Out</string>
+    <string name="our_menu">Our Menu</string>
+    <string name="reviews">Reviews</string>
+    <string name="location">Location</string>
+    <string name="fadis_meyerland_logo">Fadis Meyerland Logo</string>
+
+    <string-array name="food_array">
+        <item>Our Menu</item>
+        <item>Combos</item>
+        <item>Meats</item>
+        <item>Dips</item>
+        <item>Salads</item>
+        <item>Veggies</item>
+        <item>Sandwiches</item>
+        <item>Appetizers</item>
+        <item>Rices</item>
+        <item>Pitas</item>
+        <item>Desserts</item>
+        <item>Drinks</item>
+    </string-array>
+
+</resources>
